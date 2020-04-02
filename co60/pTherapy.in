@@ -1,0 +1,9 @@
+#/tracking/verbose 1
+#/control/cout/useBuffer true
+
+# proton 200MeV
+#/gun/energy 200 MeV
+#/gun/particle proton
+/run/beamOn 10000
+
+exit
